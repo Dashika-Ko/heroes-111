@@ -1,0 +1,132 @@
+body { margin: 0; color: #666; font: normal 18px/28px Helvetica, Arial, sans-serif; background: #fff;}
+.clear { clear: both;}
+p { margin: 0; padding: 10px 0;}
+a { color: #0000ff; text-decoration: underline;}
+a:hover { color: #7777ff;}
+a img { border: none;}
+h1, h2, h3, h4, h5, h6 { margin: 0; padding: 0; font-weight: bold; color: #000;}
+h1 { padding: 40px 0 24px; line-height: 1.4em;}
+h2 { padding: 0 0 12px;}
+strong { font-weight: bold;}
+em { font-style: italic;}
+form, menu, iframe { display: block; margin: 0; padding: 0; border: none;}
+ol, ul, dl, li, dt, dd { margin: 0; padding: 0; list-style: none;}
+* { outline: none;} 
+
+body {
+	background-image: url("../img/background.jpg");
+
+}
+.header,.content {
+	background-color: #fefefe; 
+	background-size: cover;
+	height: 100%;
+	width: 950px;
+	margin: 0 auto;
+}
+.header h2{
+	background-color: #31420b;
+	width: 930px;
+	height: 48px;
+	border-radius: 10px;
+}
+h2 {
+	font-family: Times New Roman;
+	font-size: 18px;
+	font-weight: normal;
+	color: #fefefe;
+	padding: 10px;
+}
+.logo a {
+	 text-decoration: none;
+}
+
+.logo_line_1 {
+	text-transform: uppercase;
+	font-family: Times New Roman;
+	font-size: 50px;
+	font-weight: normal;
+	color: #000000;
+}
+
+.logo_line_2 {
+	font-family: Times New Roman;
+	font-size: 24px;
+	font-weight: normal;
+	color: #000000;
+}
+
+
+.logo_line_3 {
+	text-transform: uppercase;
+	font-family: Times New Roman;
+	font-size: 64px;
+	font-weight: normal;
+	color: #000000;
+	text-align: center;
+}
+
+a {
+	color: #577613;
+	font-size: 18px;
+	font-family: Times New Roman;
+
+}
+
+a:hover {
+	color: #8bbd1d;
+}
+
+h3 {
+	line-height: 60%;
+	font-family: Times New Roman;
+	font-size: 28px;
+	font-weight: normal;
+}
+.content p {
+	line-height: 150%;
+	text-indent: 1.5em;
+	text-align: left;
+	color: #000000;
+	font-family: Times New Roman;
+	font-size: 16px;
+	font-weight: normal;
+}
+b {
+	font-family: Times New Roman;
+	font-size: 16px;
+	font-weight: bold;
+}
+i {
+	font-family: Times New Roman;
+	font-size: 14px;
+}
+.menu h4 {
+	font-family: Times New Roman;
+	font-size: 22px;
+	color: #fefefe;
+	font-weight: normal;
+	background-color: #31420b;
+	width: 30%;
+	height: 45px;
+}
+.menu li {
+	list-style-type: none;
+	line-height: 200%;
+}
+.footer p {
+	font-family: Times New Roman;
+	font-size: 18px;
+	color: #fefefe;
+	font-weight: normal;
+}
+.footer{
+	background-color: #31420b;
+	height: 45px;
+	border-radius: 10px;
+	width: 950px;
+	margin: 0 auto;
+}
+
+
+
